@@ -1,0 +1,22 @@
+:root {
+   background-color: #333;
+   color: aqua;
+   margin: 0px;
+   padding: 0px;
+   font-family: system-ui;
+}
+
+main {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 80vh;
+   width: 300px;
+   margin: 0 auto;
+   gap: 15px
+}
+
+img {
+   border-radius: 30px;
+}
